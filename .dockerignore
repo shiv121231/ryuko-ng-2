@@ -1,0 +1,8 @@
+**/__pycache__/
+.git/
+.github/
+.gitignore
+.dockerignore
+
+**/config.py
+**/data/
